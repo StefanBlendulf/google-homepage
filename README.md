@@ -1,0 +1,1 @@
+This is my first "active" challenge. After I have completed this I have also been demonstrating how HTML and CSS works with Git, also some other cool stuff. I will probably add stuff later aswell.
